@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-background: #093545;
+  --color-primary: #2BD17E;
+  --color-error: #EB5757;
+  --color-input-bg: #224957;
+  --color-card-color: #092C39;
+  
+}
+
+
+body {
+  background: #093545;
+}
+
+
+.border-rounded {
+  border-radius: 10px;
+}
